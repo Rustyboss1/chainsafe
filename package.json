@@ -31,7 +31,7 @@
     "@chainsafe/web3-context": "1.2.0",
     "@lingui/core": "3.10.4",
     "@lingui/react": "3.10.2",
-    "@types/uuid": "8.3.1",
+    "@types/uuid": "8.3.4",
     "axios": "0.21.1",
     "babel-loader": "8.1.0",
     "babel-plugin-macros": "2.8.0",
