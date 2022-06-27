@@ -1376,10 +1376,10 @@
     reset-css "^5.0.1"
     rollup-plugin-babel "^4.4.0"
 
-"@chainsafe/common-theme@1.0.10":
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/@chainsafe/common-theme/-/common-theme-1.0.10.tgz#be302a977c56fab69514793c7711dfa1016ecb7c"
-  integrity sha512-W+2fklSFHYDkE+eHK8oiZmiEZuNd6bNC/v4PTsxTLjKTe1KE9RHkcKos3NRCXuLruC6xrRNcAB3U+76o5qaV+w==
+"@chainsafe/common-theme@1.0.11":
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/@chainsafe/common-theme/-/common-theme-1.0.11.tgz#281d473b29bddacb36234fb11c29737874639e08"
+  integrity sha512-9y7ji3ycxhDyKAHKxjXK2PcLDA9J1h6PjkMTkvHaHBbFjvWRTpjGs0ou2cpnlF4dsREQSQsL1EPLPbBLS7xmJg==
   dependencies:
     "@chainsafe/browser-storage-hooks" "^1.0.1"
     rollup-plugin-copy "^3.4.0"
