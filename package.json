@@ -26,7 +26,7 @@
     "@babel/core": "7.14.6",
     "@babel/runtime": "7.14.6",
     "@chainsafe/browser-storage-hooks": "1.0.1",
-    "@chainsafe/common-components": "1.0.29",
+    "@chainsafe/common-components": "1.0.32",
     "@chainsafe/common-theme": "1.0.11",
     "@chainsafe/web3-context": "1.2.0",
     "@lingui/core": "3.10.4",

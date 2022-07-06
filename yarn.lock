@@ -1360,10 +1360,10 @@
   resolved "https://registry.yarnpkg.com/@chainsafe/browser-storage-hooks/-/browser-storage-hooks-1.0.1.tgz#26d32cde1999914db755a631e2643823c54959f7"
   integrity sha512-Q4b5gQAZnsRXKeADspd5isqfwwhhXjDk70y++YadufA6EZ3tf340oW0OVszp74KaGEw+CAYFGQR4X7bzpZ3x9Q==
 
-"@chainsafe/common-components@1.0.29":
-  version "1.0.29"
-  resolved "https://registry.yarnpkg.com/@chainsafe/common-components/-/common-components-1.0.29.tgz#44c9fe15b087fc2f2344507a0247982f7d8adca4"
-  integrity sha512-BUaqVFph7W1EJ6Xg9c1BhK/NRKkYMeshaKLk5OmockkhOK4v/4zTZrEjFgBEx3SF+1qyqjrFW8wi5+lBG/CQZw==
+"@chainsafe/common-components@1.0.32":
+  version "1.0.32"
+  resolved "https://registry.yarnpkg.com/@chainsafe/common-components/-/common-components-1.0.32.tgz#06a4d046d770d1dccb4394dbd4353e9d97792484"
+  integrity sha512-lYH1MeJVEIQfhRrrFfomtlQCZ15tpSfijv1fJbVlguJMv9s5xwS9RKw5CpF5UoPFf43ohj7ho+eo7iM6gb8hdg==
   dependencies:
     "@material-ui/styles" "^4.11.2"
     "@types/react-scroll" "^1.8.2"
