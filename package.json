@@ -38,7 +38,7 @@
     "babel-preset-env": "1.7.0",
     "babel-preset-react": "6.24.1",
     "bnc-onboard": "1.38.3",
-    "clsx": "1.1.1",
+    "clsx": "1.2.1",
     "dayjs": "1.10.6",
     "formik": "2.2.9",
     "mime-matcher": "1.0.5",
